@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,BTV
+#EXTINF:-1,group-title="BG",BTV
 http://46.10.150.113/alpha/alpha/chunklist_w1043584646.m3u8
 #EXTINF:0,EVROPA TV
 http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8

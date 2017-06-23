@@ -242,7 +242,14 @@ http://radiozdrave.no-ip.biz:81/;stream.mp3
 http://lb.blb.cdn.bg:2032/fls/Hlapeta.stream/playlist.m3u8
 #EXTINF:-1,RadioFAmily
 http://a1.virtualradio.eu:8000/family.mp3.m3u
-
+#EXTINF:1,Diema Sport
+http://130.185.232.92:1234/DiemaSp.m3u8
+#EXTINF:1,Diema Sport 2
+http://130.185.232.92:1234/DiemaSp2.m3u8
+#EXTINF:0,Diema Sport
+http://cdn.iptvbulgaria.online/live/diema-sport/.m3u8
+#EXTINF:0,Diema Sport 2
+http://cdn.iptvbulgaria.online/live/diema-sport-2/.m3u8
 
 
 
